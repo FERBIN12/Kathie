@@ -22,7 +22,8 @@ To launch the robot::
         
         ros2 launch nina_description nina_ignition.launch.py
 
-  ![image](https://github.com/user-attachments/assets/74caa712-3e9f-4161-b891-1f72fbe50e7f)
+![image](https://github.com/user-attachments/assets/3f5d74e3-d5f1-4d7e-a74a-664df8431eee)
+
 
 To launch the controller of the AMR:
 
@@ -34,6 +35,5 @@ Use RVIZ for visulization:
 
         rviz2
 
-![image](https://github.com/user-attachments/assets/d0e5fa11-f5fd-40a8-90c1-33182af71f86)
+![image](https://github.com/user-attachments/assets/e1cdcdc5-2f7d-46c0-929f-96bd33667284)
 
-            
