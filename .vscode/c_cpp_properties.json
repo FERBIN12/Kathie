@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ferbin/shattie_ws/install/shattie_controller/include/**",
+        "/home/ferbin/nina/install/nina_cpp_examples/include/**",
+        "/home/ferbin/nina/install/nina_msgs/include/**",
+        "/home/ferbin/nina/install/nina_localization/include/**",
+        "/home/ferbin/nina/install/nina_controller/include/**",
+        "/home/ferbin/zyberg_ws/install/serial_motor_demo_msgs/include/**",
+        "/home/ferbin/zyberg_ws/install/serial/include/**",
+        "/home/ferbin/zyberg_ws/install/rplidar_ros/include/**",
+        "/home/ferbin/zyberg_ws/install/diffdrive_arduino/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ferbin/nina/src/nina_controller/include/**",
+        "/home/ferbin/nina/src/nina_cpp_examples/include/**",
+        "/home/ferbin/nina/src/nina_description/include/**",
+        "/home/ferbin/nina/src/nina_localization/include/**",
+        "/home/ferbin/nina/src/nina_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
